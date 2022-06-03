@@ -12,7 +12,7 @@ body {
 	color: #333333;
 	background-color:#FFFFFF;
 	font-family:Arial, sans-serif;
-	font-size:2.0em;
+	font-size:1.5em;
     margin:20px auto;
 	width:808px;
 
@@ -20,6 +20,7 @@ body {
  
 p a {
 	color: #000;
+	font-size:1.5em;
 	text-decoration:underline!important;
 
 }
@@ -191,6 +192,7 @@ li:hover ul, li.over ul {
 #footer a {
         color:#3366CC;
         background-color:#FFFFFF;
+		font-size:0.75em;
         text-decoration: none;
 }
 
